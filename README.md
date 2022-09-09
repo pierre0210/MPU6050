@@ -1,1 +1,1 @@
-# MPU6050 with custom library
+# MPU6050
